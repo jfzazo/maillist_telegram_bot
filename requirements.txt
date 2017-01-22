@@ -1,0 +1,7 @@
+dropbox==7.1.1
+lxml==3.6.4
+PyYAML==3.11
+requests==2.11.0
+sh==1.11
+six==1.10.0
+telepot==10.1
